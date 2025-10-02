@@ -24,8 +24,8 @@ This system leverages FHE (Fully Homomorphic Encryption) smart contracts to prov
 
 The repository includes demonstration materials showcasing the system in action:
 
-- **Video Demonstration**: `Video Demonstration.mp4` - Complete walkthrough of submitting contracts, performing privacy reviews, and completing compliance analysis
-- **Transaction Screenshot**: `Transaction Screenshot.png` - On-chain transaction evidence showing encrypted clause review submission
+- **Video Demonstration**: `PrivacyContractReview.mp4` - Complete walkthrough of submitting contracts, performing privacy reviews, and completing compliance analysis
+- **Transaction Screenshot**: `PrivacyContractReview.png` - On-chain transaction evidence showing encrypted clause review submission
 
 ## 📄 Smart Contract
 
